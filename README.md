@@ -1,2 +1,1 @@
-# Appdev-Jomarie-DelaCruz
-My first Github Repository for App dev
+Jomarie O. Dela Cruz BSIT -BLK B I want to learn different language 
